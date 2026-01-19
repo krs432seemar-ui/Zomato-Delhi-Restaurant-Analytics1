@@ -1,0 +1,146 @@
+name,online_ordering ,online_table_booking,rating,votes,approx_cost_for_two,restaurant_type,popularity
+Jalsa,1,1,4.1,775,800,Buffet,Popular
+Spice Elephant,1,0,4.1,787,800,Buffet,Popular
+San Churro Cafe,1,0,3.8,918,800,Buffet,Popular
+Addhuri Udupi Bhojana,0,0,3.7,88,300,Buffet,Low
+Grand Village,0,0,3.8,166,600,Buffet,Moderate
+Timepass Dinner,1,0,3.8,286,600,Buffet,Moderate
+Rosewood International Hotel - Bar & Restaurant,0,0,3.6,8,800,Buffet,Low
+Onesta,1,1,4.6,2556,600,Cafes,Very popular
+Penthouse Cafe,1,0,4,324,700,other,Popular
+Smacznego,1,0,4.2,504,550,Cafes,Popular
+Village Café,1,0,4.1,402,500,Cafes,Popular
+Cafe Shuffle,1,1,4.2,150,600,Cafes,Moderate
+The Coffee Shack,1,1,4.2,164,500,Cafes,Moderate
+Caf-Eleven,0,0,4,424,450,Cafes,Popular
+Cafe Vivacity,1,0,3.8,90,650,Cafes,Low
+Catch-up-ino,1,0,3.9,133,800,Cafes,Moderate
+Kirthi's Biryani,1,0,3.8,144,700,Cafes,Moderate
+T3H Cafe,0,0,3.9,93,300,Cafes,Low
+360 Atoms Restaurant And Cafe,1,0,3.1,13,400,Cafes,Low
+The Vintage Cafe,1,0,3,62,400,Cafes,Low
+Woodee Pizza,1,0,3.7,180,500,Cafes,Moderate
+Cafe Coffee Day,0,0,3.6,28,900,Cafes,Low
+My Tea House,1,0,3.6,62,600,Cafes,Low
+Hide Out Cafe,0,0,3.7,31,300,Cafes,Low
+CAFE NOVA,0,0,3.2,11,600,Cafes,Low
+Coffee Tindi,1,0,3.8,75,200,Cafes,Low
+Sea Green Cafe,0,0,3.3,4,500,Cafes,Low
+Cuppa,0,0,3.3,23,550,Cafes,Low
+Srinathji's Cafe,0,0,3.8,148,550,Cafes,Moderate
+Redberrys,1,0,4,219,600,Cafes,Moderate
+Foodiction,1,0,2.8,506,500,other,Popular
+Sweet Truth,1,0,3.9,35,500,Dining,Low
+Ovenstory Pizza,1,0,3.9,172,750,Dining,Moderate
+Faasos,1,0,4.2,415,500,other,Popular
+Behrouz Biryani,1,0,3.9,230,650,Dining,Moderate
+Fast And Fresh,1,0,2.8,91,400,Dining,Low
+Szechuan Dragon,1,0,4.2,1647,600,Dining,Very popular
+Empire Restaurant,1,0,4.4,4884,750,other,Very popular
+Maruthi Davangere Benne Dosa,1,0,4,17,150,Dining,Low
+Chaatimes,1,0,3.8,133,200,Dining,Moderate
+Havyaka Mess,0,0,3.9,28,300,Dining,Low
+McDonald's,1,0,3.9,286,500,Dining,Moderate
+Domino's Pizza,1,0,3.9,540,800,Dining,Popular
+Hotboxit,0,0,3.8,36,400,Dining,Low
+Kitchen Garden,1,0,3.6,244,300,Dining,Moderate
+Recipe,1,0,4,804,450,Dining,Popular
+Beijing Bites,1,0,3.7,679,850,Dining,Popular
+Tasty Bytes,1,0,3.1,245,300,Dining,Moderate
+Petoo,0,0,3.7,21,450,Dining,Low
+Shree Cool Point,1,0,4.1,28,150,Dining,Low
+Corner House Ice Cream,0,0,4.3,345,400,Dining,Popular
+Biryanis And More,1,0,4,618,750,Dining,Popular
+Roving Feast,0,0,4,1047,450,Dining,Very popular
+FreshMenu,1,0,3.9,627,450,Dining,Popular
+Banashankari Donne Biriyani,1,0,3.8,104,300,Dining,Moderate
+Wamama,1,1,4.2,354,800,other,Popular
+Five Star Chicken,0,0,3.6,55,200,Dining,Low
+XO Belgian Waffle,1,0,3.7,17,400,Dining,Low
+Peppy Peppers,0,0,4.2,244,800,other,Moderate
+Goa 0 Km,1,1,3.6,163,800,Dining,Moderate
+Chinese Kitchen,1,0,3.8,58,150,Dining,Low
+Jeet Restaurant,0,1,4,808,850,Dining,Popular
+Cake of the Day,0,0,3.7,78,150,Dining,Low
+Kabab Magic,1,0,4.1,1720,400,Dining,Very popular
+Namma Brahmin's Idli,1,0,3.6,34,100,Dining,Low
+Gustoes Beer House,0,0,4.1,868,700,Dining,Popular
+Sugar Rush,0,0,3.8,39,300,Dining,Low
+Burger King,1,0,3.2,71,600,Dining,Low
+The Good Bowl,1,0,3.6,6,500,Dining,Low
+The Biryani Cafe,0,0,4.1,520,300,Dining,Popular
+Spicy Tandoor,0,0,4.1,0,150,Dining,Low
+LSD Cafe,0,0,2.9,84,700,other,Low
+Rolls On Wheels,0,0,3.6,299,300,Dining,Moderate
+Om Sri Vinayaka Chats,0,0,3.6,0,500,Dining,Low
+Sri Guru Kottureshwara Davangere Benne Dosa,1,0,4.1,558,150,Dining,Popular
+Devanna Dum Biriyani Centre,1,0,3.6,28,300,Dining,Low
+Kolbeh,0,0,3.7,22,500,Dining,Low
+Upahar Sagar,0,0,3.8,39,350,Dining,Low
+Kadalu Sea Food Restaurant,1,0,3.8,153,500,Dining,Moderate
+Frozen Bottle,1,0,4.2,146,400,Dining,Moderate
+Parimala Sweets,0,0,3.5,14,200,Dining,Low
+Vaishali Deluxe,0,0,3.8,42,700,Dining,Low
+Chill Out,0,0,3.8,0,100,Dining,Low
+The Big O Bakes,0,0,4,66,300,Dining,Low
+Meghana Foods,1,0,4.4,4401,600,Dining,Very popular
+Krishna Sagar,0,0,3.5,31,200,Dining,Low
+Dessert Rose,0,0,3.5,7,500,Dining,Low
+Chickpet Donne Biryani House,0,0,3.7,21,250,Dining,Low
+Me And My Cake,0,0,3.7,0,500,Dining,Low
+Sunsadm,0,0,3.7,0,400,Dining,Low
+Annapooraneshwari Mess,0,0,3.7,0,200,Dining,Low
+Thanco's Natural Ice Creams,0,0,3.2,9,300,Dining,Low
+Nandhini Deluxe,0,0,2.6,283,600,Dining,Moderate
+Vi Ra's Bar and Restaurant,0,0,3.3,62,800,Dining,Low
+Kaggis,0,0,3.8,64,250,Dining,Low
+Ayda Persian Kitchen,0,0,3.7,39,950,Dining,Low
+Chatar Patar,0,0,3.7,65,300,Dining,Low
+Polar Bear,1,0,3.8,71,400,Dining,Low
+Kidambi's Kitchen,0,0,3.5,52,300,Dining,Low
+Mane Thindi,0,0,3.7,130,200,Dining,Moderate
+Kotian Karavali Restaurant,0,0,3.5,10,300,Dining,Low
+Floured-Baked With Love,0,0,3.8,45,400,Dining,Low
+Cakes & Slices,0,0,3.5,13,300,Dining,Low
+Spice 9,0,0,3.4,8,300,Dining,Low
+Coffee Shopee,0,0,3.4,0,250,Dining,Low
+Naveen Kabab & Biriyani Mane,0,0,3.2,9,300,Dining,Low
+Katriguppe Donne Biryani,0,0,3.2,4,300,Dining,Low
+Hari Super Sandwich,0,0,3.2,0,200,Dining,Low
+Atithi Point Ande Ka Funda,0,0,3.1,29,150,Dining,Low
+Just Bake,0,0,3.4,8,400,Dining,Low
+Dharwad Line Bazaar Mishra Pedha,0,0,3.4,0,150,Dining,Low
+Cake Bite,0,0,3.4,0,300,Dining,Low
+Aarush's Food Plaza,0,0,3.4,0,200,Dining,Low
+Wood Stove,0,0,3.4,0,150,Dining,Low
+Kulfi & More,0,0,3.4,0,150,Dining,Low
+Kannadigas Karavali,0,0,3.4,0,250,Dining,Low
+K27 - The Pub,0,0,3.1,30,900,Dining,Low
+Bengaluru Coffee House,1,0,4.1,201,300,Dining,Moderate
+New Mangalore Lunch Home,0,0,3.3,7,200,Dining,Low
+Coffee Bytes,0,0,3.1,6,100,Dining,Low
+Parjanya Chat Zone,0,0,3.3,17,200,Dining,Low
+Kwality Wall's Swirl's Happiness Station,0,0,2.9,25,200,Dining,Low
+Soms Kitchen & Bakes,0,0,2.9,0,400,Dining,Low
+Banashankari Nati Style,0,0,2.9,0,350,Dining,Low
+Ruchi Maayaka,0,0,3.3,8,100,Dining,Low
+Mohitesh Hut Roll,0,0,3.3,0,150,Dining,Low
+Sri Basaveshwar Jolada Rotti Oota,0,0,3.4,0,150,Dining,Low
+Roll Magic Fast Food,0,0,3.4,0,200,Dining,Low
+Foodlieious Multi Cuisine,0,0,3.4,0,100,Dining,Low
+Thanishka Nati And Karavali Style,0,0,3.1,0,400,Dining,Low
+Swathi Cool Point,0,0,4.1,0,200,Dining,Low
+Kaumudis Juoice,0,0,3.3,0,150,Dining,Low
+Amma - Manae,0,0,3.1,0,400,Dining,Low
+Sri Sai Tiffannies,0,0,3.3,0,150,Dining,Low
+Hotel Andhra Speices,0,0,2.9,0,250,Dining,Low
+Sri Murari Family Restaurant,0,0,2.9,0,250,Dining,Low
+Aramane Donne Biriyani,0,0,2.9,0,150,Dining,Low
+Darkolates,0,0,3.3,0,200,Dining,Low
+Swaada Healthy Kitchen,0,0,3.3,0,350,Dining,Low
+Gawdaru Mane Beriyani,0,0,3.3,0,300,Dining,Low
+Melting Melodies,0,0,3.3,0,100,Dining,Low
+New Indraprasta,0,0,3.3,0,150,Dining,Low
+Anna Kuteera,1,0,4,771,450,Dining,Popular
+Darbar,0,0,3,98,800,Dining,Low
+Vijayalakshmi,1,0,3.9,47,200,Dining,Low
